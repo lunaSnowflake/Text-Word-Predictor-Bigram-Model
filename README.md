@@ -22,7 +22,7 @@ This project showcases the dynamic synergy between the Transformer architecture 
 
 Check out the Notebooks:
 <div align="left">
-  <a href="https://colab.research.google.com/github/lunaSnowflake/ext-Word-Predictor-Bigram-Model/blob/Bigram LLM Model - Final.ipynb">
+  <a href="https://colab.research.google.com/github/lunaSnowflake/Text-Word-Predictor-Bigram-Model/blob/master/Bigram%20LLM%20Model%20-%20Final.ipynb">
     <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-colab-small.png" width="10%" /></a>
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
 </div>
