@@ -1,13 +1,13 @@
 # Text-Word-Predictor-Bigram-Model
 
-Introduction:
+### Introduction:
 In the realm of natural language processing (NLP), predictive text generation is a fundamental task with numerous applications, such as autocomplete, chatbots, and machine translation. The "Attention Is All You Need" paper introduced the revolutionary Transformer architecture, which has since become a cornerstone in modern NLP. This project aims to leverage the Transformer's attention mechanisms to build a Bigram language model that predicts the next word in a sentence given the previous words.
 
-🔍 Project Overview:
+### 🔍 Project Overview:
 In the fast-paced world of predictive text generation, I've embarked on a journey to harness the power of the Transformer architecture, famously introduced in the "Attention Is All You Need" paper. <a href="https://arxiv.org/pdf/1706.03762.pdf">📄</a> My goal? To create a cutting-edge bigram language model that predicts the next word in a sentence based on the two preceding words.
 
 
-📊 Project Steps:
+### 📊 Project Steps:
 • Data Collection and Preprocessing: Gathered and cleaned diverse text data to fuel the model's training. <br/>
 • Implementing the Transformer Architecture: Brought the core of the Transformer to life, featuring self-attention and feedforward neural networks. <br/>
 • Creating the Bigram Language Model: Tailored the Transformer to handle bigram predictions, accommodating two preceding words. <br/>
@@ -16,7 +16,7 @@ In the fast-paced world of predictive text generation, I've embarked on a journe
 • Fine-tuning and Optimization: Explored the hyperparameter landscape to unlock the model's full potential. <br/>
 • Inference and Prediction: Transformed the model into a real-time next-word predictor, leveraging its learned contextual insights. <br/>
 
-🌟 Impact and Future:
+### 🌟 Impact and Future:
 This project showcases the dynamic synergy between the Transformer architecture and Bigram-based language modeling. By expanding contextual understanding, we're stepping up the game in various NLP applications, from autocomplete to chatbots and beyond.
 
 ## 🌟 Acknowledgements:
