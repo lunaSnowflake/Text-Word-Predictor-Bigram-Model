@@ -19,9 +19,12 @@ In the fast-paced world of predictive text generation, I've embarked on a journe
 ### 🌟 Impact and Future:
 This project showcases the dynamic synergy between the Transformer architecture and Bigram-based language modeling. By expanding contextual understanding, we're stepping up the game in various NLP applications, from autocomplete to chatbots and beyond.
 
-## 🌟 Acknowledgements:
+## 🌟 Sources:
+📝 https://arxiv.org/pdf/1706.03762
+<br>
+🎞️ https://www.youtube.com/watch?v=kCc8FmEb1nY
 
-Check out the Notebooks:
+### Check out the Notebooks:
 <div align="left">
   <a href="https://colab.research.google.com/github/lunaSnowflake/Text-Word-Predictor-Bigram-Model/blob/master/Bigram%20LLM%20Model%20-%20Final.ipynb">
     <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-colab-small.png" width="10%" /></a>
